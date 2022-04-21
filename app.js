@@ -3,8 +3,8 @@ const btnNo = document.querySelector("#btn2");
 
 btnSi.addEventListener('click',() => {
     Swal.fire({
-        title: 'Esta bien!',
-        text: 'Vamos a tirar!',
+        title: 'Te presto!',
+        text: 'Y no me devuelvas hermanito TE QUIERO!',
         icon:'success',
     })
 })
